@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gospelemmy1-dot.github.io/maymahs-treats/sitemap.xml
